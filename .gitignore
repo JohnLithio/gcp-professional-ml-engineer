@@ -1,0 +1,18 @@
+# Source study materials (HTML files from Google Skills)
+source_study_materials/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Notes (if you want to keep personal notes private)
+# Uncomment the line below to ignore notes
+# **/notes.md
